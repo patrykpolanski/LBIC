@@ -1,0 +1,117 @@
+#title {
+  background-color: #fec2db;
+  color: #ffffff
+}
+
+#app {
+  transform: rotate(20deg);
+  position: absolute;
+  width: 80%;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #ffffff;
+  position: relative;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #FF4878;
+  position: relative;
+}
+
+#press {
+  background-color: #FF4878;
+  text-align: center;
+  padding-bottom: 2%;
+}
+#cta {
+  text-align: center;
+  padding: 15% 5% 15% 5%;
+  background-color: #FF4878;
+}
+#footer {
+  text-align: center;
+}
+#pricing {
+  text-align: center;
+  padding: 5% 5% 5% 5%;
+}
+#carousel-press {
+  text-align: center;
+}
+#footer {
+  text-align: center;
+  padding: 5% 5% 0% 5%;
+}
+p {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  color: #7d7a7c;
+}
+
+.pricing-col {
+
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.testimonial-image {
+  width: 40%;
+  margin: 20px;
+}
+
+.navbar-brand {
+font-size: 3rem !important;  line-height: 1.5;  font-weight: 900;
+}
+
+.nav-link {
+  font-size: 2rem !important;
+}
+
+.container-fluid {
+  padding: 3% 15% 8% !important;
+}
+
+.navbar {
+  padding: 0 0 4.5rem !important;
+}
+
+.dl-button {
+  margin: 5% 3% 5% 0% ;
+}
+
+.col-no-padding {
+  padding-left: 0px !important;
+}
+.text-center {
+  text-align: center;
+}
+
+.fa-heart:hover, .fa-bullseye:hover, .fa-check-circle:hover {
+  color: #fec2db;
+}
+
+.icon-padding {
+  padding-right: 2%;
+}
+h3 {font-family: 'Montserrat', sans-serif; font-size: 1.5rem !important; line-height: 1.5 !important; font-weight: 900 !important;}
+
+h1,h2{
+  font-family: 'Montserrat', sans-serif; font-size: 3rem !important; line-height: 1.5 !important; font-weight: 900 !important;
+
+}
+
+@media (max-width: 1020px) {
+  #title {
+    text-align: center;
+  }
+  #app {
+    position: static;
+    transform: rotate(0);
+  }
+}
