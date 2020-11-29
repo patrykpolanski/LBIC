@@ -1,1 +1,4 @@
-TinDog Starting Files
+Localization
+Based
+Internet
+Chat
